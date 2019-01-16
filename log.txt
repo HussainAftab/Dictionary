@@ -1,0 +1,12 @@
+$ability
+$help
+$work
+$complete
+$
+$exam
+$examination
+$help
+$
+$
+$help
+$hello
